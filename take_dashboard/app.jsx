@@ -53,6 +53,7 @@ class Website_Visitors extends React.Component {
             <div id="Wesite_Visitors">
                 <h1>Website Visitors</h1>
                 <h4>821</h4>
+                <div id="Nested_Box"></div>
             </div>
         )
     }
